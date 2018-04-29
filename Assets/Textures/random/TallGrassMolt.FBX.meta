@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: bdde438ede7ff3142b8daa643bf90128
+timeCreated: 1518773436
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Aa HERBA
+    100002: Aa HERBA001
+    100004: Aa HERBA002
+    100006: Aa HERBA003
+    100008: Aa HERBA004
+    100010: Aa HERBA005
+    100012: Aa HERBA006
+    100014: Aa HERBA007
+    100016: Aa HERBA008
+    100018: Aa HERBA009
+    100020: Aa HERBA010
+    100022: Aa HERBA011
+    100024: Aa HERBA012
+    100026: Aa HERBA013
+    100028: blade original
+    100030: bladejunt
+    100032: bladejunt original
+    100034: Cylinder002
+    100036: Cylinder003
+    100038: Cylinder004
+    100040: Cylinder005
+    100042: Cylinder006
+    100044: Cylinder007
+    100046: Cylinder008
+    100048: Cylinder009
+    100050: Cylinder010
+    100052: Cylinder011
+    100054: Cylinder012
+    100056: Cylinder013
+    100058: Cylinder014
+    100060: Cylinder015
+    100062: Cylinder016
+    100064: Cylinder017
+    100066: Cylinder018
+    100068: Cylinder019
+    100070: Cylinder020
+    100072: Cylinder021
+    100074: Cylinder022
+    100076: Cylinder023
+    100078: Cylinder024
+    100080: Cylinder025
+    100082: Cylinder026
+    100084: Cylinder027
+    100086: Cylinder028
+    100088: Cylinder029
+    100090: Cylinder030
+    100092: Cylinder031
+    100094: Cylinder032
+    100096: Cylinder033
+    100098: Cylinder034
+    100100: Cylinder035
+    100102: Cylinder036
+    100104: Cylinder037
+    100106: Cylinder038
+    100108: Cylinder039
+    100110: Cylinder040
+    100112: Cylinder041
+    100114: Cylinder042
+    100116: Cylinder043
+    100118: Cylinder044
+    100120: Cylinder045
+    100122: Cylinder046
+    100124: Cylinder047
+    100126: Cylinder048
+    100128: Cylinder049
+    100130: Cylinder050
+    100132: Cylinder051
+    100134: Cylinder052
+    100136: Cylinder053
+    100138: Cylinder054
+    100140: Cylinder055
+    100142: Cylinder056
+    100144: Cylinder057
+    100146: Cylinder058
+    100148: Group001
+    100150: HERBETA
+    100152: HERBETA001
+    100154: HERBETA002
+    100156: HERBETA003
+    100158: Object001
+    100160: Plane001
+    100162: Plane002
+    100164: Plane003
+    100166: Plane005
+    100168: Plane006
+    100170: Plane007
+    100172: Plane008
+    100174: Plane009
+    100176: Plane010
+    100178: Plane011
+    100180: //RootNode
+    400000: Aa HERBA
+    400002: Aa HERBA001
+    400004: Aa HERBA002
+    400006: Aa HERBA003
+    400008: Aa HERBA004
+    400010: Aa HERBA005
+    400012: Aa HERBA006
+    400014: Aa HERBA007
+    400016: Aa HERBA008
+    400018: Aa HERBA009
+    400020: Aa HERBA010
+    400022: Aa HERBA011
+    400024: Aa HERBA012
+    400026: Aa HERBA013
+    400028: blade original
+    400030: bladejunt
+    400032: bladejunt original
+    400034: Cylinder002
+    400036: Cylinder003
+    400038: Cylinder004
+    400040: Cylinder005
+    400042: Cylinder006
+    400044: Cylinder007
+    400046: Cylinder008
+    400048: Cylinder009
+    400050: Cylinder010
+    400052: Cylinder011
+    400054: Cylinder012
+    400056: Cylinder013
+    400058: Cylinder014
+    400060: Cylinder015
+    400062: Cylinder016
+    400064: Cylinder017
+    400066: Cylinder018
+    400068: Cylinder019
+    400070: Cylinder020
+    400072: Cylinder021
+    400074: Cylinder022
+    400076: Cylinder023
+    400078: Cylinder024
+    400080: Cylinder025
+    400082: Cylinder026
+    400084: Cylinder027
+    400086: Cylinder028
+    400088: Cylinder029
+    400090: Cylinder030
+    400092: Cylinder031
+    400094: Cylinder032
+    400096: Cylinder033
+    400098: Cylinder034
+    400100: Cylinder035
+    400102: Cylinder036
+    400104: Cylinder037
+    400106: Cylinder038
+    400108: Cylinder039
+    400110: Cylinder040
+    400112: Cylinder041
+    400114: Cylinder042
+    400116: Cylinder043
+    400118: Cylinder044
+    400120: Cylinder045
+    400122: Cylinder046
+    400124: Cylinder047
+    400126: Cylinder048
+    400128: Cylinder049
+    400130: Cylinder050
+    400132: Cylinder051
+    400134: Cylinder052
+    400136: Cylinder053
+    400138: Cylinder054
+    400140: Cylinder055
+    400142: Cylinder056
+    400144: Cylinder057
+    400146: Cylinder058
+    400148: Group001
+    400150: HERBETA
+    400152: HERBETA001
+    400154: HERBETA002
+    400156: HERBETA003
+    400158: Object001
+    400160: Plane001
+    400162: Plane002
+    400164: Plane003
+    400166: Plane005
+    400168: Plane006
+    400170: Plane007
+    400172: Plane008
+    400174: Plane009
+    400176: Plane010
+    400178: Plane011
+    400180: //RootNode
+    2300000: Aa HERBA
+    2300002: Aa HERBA001
+    2300004: Aa HERBA002
+    2300006: Aa HERBA003
+    2300008: Aa HERBA004
+    2300010: Aa HERBA005
+    2300012: Aa HERBA006
+    2300014: Aa HERBA007
+    2300016: Aa HERBA008
+    2300018: Aa HERBA009
+    2300020: Aa HERBA010
+    2300022: Aa HERBA011
+    2300024: Aa HERBA012
+    2300026: Aa HERBA013
+    2300028: blade original
+    2300030: bladejunt
+    2300032: bladejunt original
+    2300034: Cylinder002
+    2300036: Cylinder003
+    2300038: Cylinder004
+    2300040: Cylinder005
+    2300042: Cylinder006
+    2300044: Cylinder007
+    2300046: Cylinder008
+    2300048: Cylinder009
+    2300050: Cylinder010
+    2300052: Cylinder011
+    2300054: Cylinder012
+    2300056: Cylinder013
+    2300058: Cylinder014
+    2300060: Cylinder015
+    2300062: Cylinder016
+    2300064: Cylinder017
+    2300066: Cylinder018
+    2300068: Cylinder019
+    2300070: Cylinder020
+    2300072: Cylinder021
+    2300074: Cylinder022
+    2300076: Cylinder023
+    2300078: Cylinder024
+    2300080: Cylinder025
+    2300082: Cylinder026
+    2300084: Cylinder027
+    2300086: Cylinder028
+    2300088: Cylinder029
+    2300090: Cylinder030
+    2300092: Cylinder031
+    2300094: Cylinder032
+    2300096: Cylinder033
+    2300098: Cylinder034
+    2300100: Cylinder035
+    2300102: Cylinder036
+    2300104: Cylinder037
+    2300106: Cylinder038
+    2300108: Cylinder039
+    2300110: Cylinder040
+    2300112: Cylinder041
+    2300114: Cylinder042
+    2300116: Cylinder043
+    2300118: Cylinder044
+    2300120: Cylinder045
+    2300122: Cylinder046
+    2300124: Cylinder047
+    2300126: Cylinder048
+    2300128: Cylinder049
+    2300130: Cylinder050
+    2300132: Cylinder051
+    2300134: Cylinder052
+    2300136: Cylinder053
+    2300138: Cylinder054
+    2300140: Cylinder055
+    2300142: Cylinder056
+    2300144: Cylinder057
+    2300146: Cylinder058
+    2300148: Object001
+    2300150: Plane001
+    2300152: Plane002
+    2300154: Plane003
+    2300156: Plane005
+    2300158: Plane006
+    2300160: Plane007
+    2300162: Plane008
+    2300164: Plane009
+    2300166: Plane010
+    2300168: Plane011
+    3300000: Aa HERBA
+    3300002: Aa HERBA001
+    3300004: Aa HERBA002
+    3300006: Aa HERBA003
+    3300008: Aa HERBA004
+    3300010: Aa HERBA005
+    3300012: Aa HERBA006
+    3300014: Aa HERBA007
+    3300016: Aa HERBA008
+    3300018: Aa HERBA009
+    3300020: Aa HERBA010
+    3300022: Aa HERBA011
+    3300024: Aa HERBA012
+    3300026: Aa HERBA013
+    3300028: blade original
+    3300030: bladejunt
+    3300032: bladejunt original
+    3300034: Cylinder002
+    3300036: Cylinder003
+    3300038: Cylinder004
+    3300040: Cylinder005
+    3300042: Cylinder006
+    3300044: Cylinder007
+    3300046: Cylinder008
+    3300048: Cylinder009
+    3300050: Cylinder010
+    3300052: Cylinder011
+    3300054: Cylinder012
+    3300056: Cylinder013
+    3300058: Cylinder014
+    3300060: Cylinder015
+    3300062: Cylinder016
+    3300064: Cylinder017
+    3300066: Cylinder018
+    3300068: Cylinder019
+    3300070: Cylinder020
+    3300072: Cylinder021
+    3300074: Cylinder022
+    3300076: Cylinder023
+    3300078: Cylinder024
+    3300080: Cylinder025
+    3300082: Cylinder026
+    3300084: Cylinder027
+    3300086: Cylinder028
+    3300088: Cylinder029
+    3300090: Cylinder030
+    3300092: Cylinder031
+    3300094: Cylinder032
+    3300096: Cylinder033
+    3300098: Cylinder034
+    3300100: Cylinder035
+    3300102: Cylinder036
+    3300104: Cylinder037
+    3300106: Cylinder038
+    3300108: Cylinder039
+    3300110: Cylinder040
+    3300112: Cylinder041
+    3300114: Cylinder042
+    3300116: Cylinder043
+    3300118: Cylinder044
+    3300120: Cylinder045
+    3300122: Cylinder046
+    3300124: Cylinder047
+    3300126: Cylinder048
+    3300128: Cylinder049
+    3300130: Cylinder050
+    3300132: Cylinder051
+    3300134: Cylinder052
+    3300136: Cylinder053
+    3300138: Cylinder054
+    3300140: Cylinder055
+    3300142: Cylinder056
+    3300144: Cylinder057
+    3300146: Cylinder058
+    3300148: Object001
+    3300150: Plane001
+    3300152: Plane002
+    3300154: Plane003
+    3300156: Plane005
+    3300158: Plane006
+    3300160: Plane007
+    3300162: Plane008
+    3300164: Plane009
+    3300166: Plane010
+    3300168: Plane011
+    4300000: Cylinder002
+    4300002: Cylinder003
+    4300004: Cylinder004
+    4300006: Cylinder005
+    4300008: Cylinder006
+    4300010: Cylinder007
+    4300012: Cylinder008
+    4300014: Cylinder009
+    4300016: Cylinder010
+    4300018: Cylinder011
+    4300020: Cylinder012
+    4300022: Cylinder013
+    4300024: Cylinder014
+    4300026: Cylinder015
+    4300028: Cylinder016
+    4300030: Cylinder017
+    4300032: Cylinder018
+    4300034: Cylinder019
+    4300036: Cylinder020
+    4300038: Cylinder021
+    4300040: Cylinder022
+    4300042: Cylinder023
+    4300044: Cylinder024
+    4300046: Cylinder025
+    4300048: Cylinder026
+    4300050: Cylinder027
+    4300052: Cylinder028
+    4300054: Cylinder029
+    4300056: Cylinder030
+    4300058: Cylinder031
+    4300060: Cylinder032
+    4300062: Cylinder033
+    4300064: Cylinder034
+    4300066: Cylinder035
+    4300068: Cylinder036
+    4300070: Cylinder037
+    4300072: Cylinder038
+    4300074: Cylinder039
+    4300076: Cylinder040
+    4300078: Cylinder041
+    4300080: Cylinder042
+    4300082: Cylinder043
+    4300084: Cylinder044
+    4300086: Cylinder045
+    4300088: Cylinder046
+    4300090: Cylinder047
+    4300092: Cylinder048
+    4300094: Cylinder049
+    4300096: Cylinder050
+    4300098: Cylinder051
+    4300100: Cylinder052
+    4300102: Cylinder053
+    4300104: Cylinder054
+    4300106: Cylinder055
+    4300108: Cylinder056
+    4300110: Cylinder057
+    4300112: Cylinder058
+    4300114: Aa HERBA
+    4300116: Object001
+    4300118: Aa HERBA001
+    4300120: Aa HERBA005
+    4300122: Plane001
+    4300124: Plane002
+    4300126: Plane005
+    4300128: Plane003
+    4300130: Plane006
+    4300132: Plane007
+    4300134: Aa HERBA002
+    4300136: Aa HERBA004
+    4300138: Aa HERBA006
+    4300140: Aa HERBA007
+    4300142: Aa HERBA008
+    4300144: Aa HERBA009
+    4300146: Aa HERBA010
+    4300148: Aa HERBA011
+    4300150: Aa HERBA012
+    4300152: Aa HERBA013
+    4300154: Aa HERBA003
+    4300156: Plane008
+    4300158: Plane009
+    4300160: Plane010
+    4300162: Plane011
+    4300164: bladejunt
+    4300166: blade original
+    4300168: bladejunt original
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: d24390aef36d8b746a18d90331b8cb02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 1422811c6eab31a4fba3b9c29484aa37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: a258d8a5c67e75b4f80a0a2bae490bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: fe5bea3c0d6c1ab49a40b48259128d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: f21c2037baf1944499a8044417d293c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: b6a3b69778106684491c562fe041a639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: 2ca5c7d51179f854393e75d71bf9c289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: a4fad60aa730c8244854f22d6a0e39e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: af4701dfd183ab44f939b4a50162d458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: b70d87354a5ac0b4ea6a1a458b141bcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: b79580a1383d4f84d800a8d21bc334e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: 52c2fa1c5587c594c9b3f63051d2bd3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: bb2885cf54caba341814257ba578cce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: b4536d96b1b522f4f9ffea67050e292d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 30bca39f6daad4accb0b52ea5756ec8d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
